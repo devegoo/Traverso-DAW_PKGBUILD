@@ -1,6 +1,6 @@
 # Traverso-DAW_PKGBUILD
 
-for building from source in ARCH Linux
+for building from source on ARCH Linux
 
 cd "to cloned repository"
 
